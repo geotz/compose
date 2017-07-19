@@ -5,7 +5,7 @@ I was curious about a clean c++14 solution because someone posted a c++11 soluti
 (Here's the other link: https://github.com/bureau14/open_lib)
 
 ## MIT LICENSE
-Copyright (c) 2014 George M. Tzoumas
+Copyright (c) 2017 George M. Tzoumas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
