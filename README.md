@@ -1,7 +1,7 @@
 # compose
 C++14 functor composition (variadic)
 
-I was curious about a clean c++14 solution because someone posted a c++11 solution that includes half of the boost library :)
+I was curious about a clean c++14 solution because I came across a c++11 solution that includes half of the boost library :)
 (Here's the other link: https://github.com/bureau14/open_lib)
 
 ## MIT LICENSE
